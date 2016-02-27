@@ -1,0 +1,31 @@
+_repo: Signs-of-Change_3053
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: Title; Contents; How We Live And How We Might Live; Whigs, Democrats,
+  And Socialists.; Feudal England; The Hopes Of Civilization; The Aims Of Art; Useful
+  Work Versus Useless Toil; Dawn Of A New Epoch; Endnotes.
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art'
+- !lcc 'HX'
+- !lcsh 'Socialism -- Great Britain'
+- !lcsh 'Socialism'
+tableOfContents: How we live and how we might live -- Whigs, democrats, and socialists
+  -- Feudal England -- The hopes of civilization -- The aims of art -- Useful work
+  versus useless toil -- Dawn of a new epoch
+title: Signs of Change
+url: http://www.gutenberg.org/ebooks/3053
