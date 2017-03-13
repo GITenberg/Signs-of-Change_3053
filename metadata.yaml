@@ -1,5 +1,8 @@
 _repo: Signs-of-Change_3053
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, William
@@ -12,6 +15,8 @@ creator:
 description: Title; Contents; How We Live And How We Might Live; Whigs, Democrats,
   And Socialists.; Feudal England; The Hopes Of Civilization; The Aims Of Art; Useful
   Work Versus Useless Toil; Dawn Of A New Epoch; Endnotes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3053#Signs-of-Change
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
 identifiers:
