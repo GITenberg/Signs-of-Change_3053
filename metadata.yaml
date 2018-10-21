@@ -1,5 +1,5 @@
 _repo: Signs-of-Change_3053
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcc 'HX'
 - !lcsh 'Socialism -- Great Britain'
 - !lcsh 'Socialism'
+- GITenberg
 tableOfContents: How we live and how we might live -- Whigs, democrats, and socialists
   -- Feudal England -- The hopes of civilization -- The aims of art -- Useful work
   versus useless toil -- Dawn of a new epoch
